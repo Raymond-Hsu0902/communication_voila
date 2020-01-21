@@ -9,5 +9,5 @@ Open the goal in voila:  [![Binder](https://mybinder.org/badge_logo.svg)](https:
 Open in Voila and then you choose which one: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/communication_voila/master?urlpath=voila%2Ftree%2Fscripts) 
 
 
-**Direct links to start out in notebook mode:**
+**Direct links to start out in notebook mode:**  
 Start with the matplotlib demo as a notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/communication_voila/master?urlpath=scripts/voila_and_matplotlib.ipynb) 
