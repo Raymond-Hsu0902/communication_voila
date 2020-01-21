@@ -10,4 +10,4 @@ Open in Voila and then you choose which one: [![Binder](https://mybinder.org/bad
 
 
 **Direct links to start out in notebook mode:**  
-Start with the matplotlib demo as a notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/communication_voila/master?urlpath=tree/scripts/voila_and_matplotlib.ipynb) 
+Start with the matplotlib demo as a notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/communication_voila/master?urlpath=scripts%2Fvoila_and_matplotlib.ipynb) 
