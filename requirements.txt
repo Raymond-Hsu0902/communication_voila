@@ -3,6 +3,7 @@ sklearn
 nistats
 nilearn
 matplotlib
+ipympl
 nose
 cm
 scipy
