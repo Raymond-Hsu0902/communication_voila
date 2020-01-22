@@ -1,6 +1,8 @@
-# A simple test
+# Simple tests of making Voila apps using Jupyter Notebooks
 Click on the following link to browse some interactive plots
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/communication_voila/master?urlpath=voila%2Ftree%2Fscripts)
+
+Features several plots.
 
 **Direct links:**   
 Open the basic one in voila: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/communication_voila/master?urlpath=voila%2Frender%2Fscripts%2Fbasics.ipynb)  
