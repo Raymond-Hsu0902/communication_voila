@@ -15,3 +15,11 @@ Open in Voila and then you choose which one: [![Binder](https://mybinder.org/bad
 Start with the matplotlib demo as a notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/communication_voila/master?filepath=scripts%2Fvoila_and_matplotlib.ipynb)  
 Start with the Pandas dataframe plot demo as a notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/communication_voila/master?filepath=scripts%2Fbasics.ipynb)  
 Start with the donut plot on a tab widget demo as a notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/communication_voila/master?filepath=scripts%2FDonut%20plot%20on%20a%20widget%20tab.ipynb)
+
+
+
+## Related
+
+See also these two notebooks available from my repo [Dscatter_plot-binder](https://github.com/fomightez/3Dscatter_plot-binder):
+- `3D scatter plot using data in a file and Voila interface`
+- `streamlined 3D scatter plot in Voila interface`
