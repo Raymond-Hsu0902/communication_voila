@@ -20,6 +20,6 @@ Start with the donut plot on a tab widget demo as a notebook: [![Binder](https:/
 
 ## Related
 
-See also these two notebooks available from my repo [Dscatter_plot-binder](https://github.com/fomightez/3Dscatter_plot-binder):
+See also these two notebooks available from my repo [3Dscatter_plot-binder](https://github.com/fomightez/3Dscatter_plot-binder):
 - `3D scatter plot using data in a file and Voila interface`
 - `streamlined 3D scatter plot in Voila interface`
