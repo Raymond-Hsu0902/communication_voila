@@ -11,3 +11,7 @@ nibabel
 patsy
 boto3
 voila
+selenium
+bs4
+gspread==3.7.0
+gspread_dataframe
